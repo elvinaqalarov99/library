@@ -28,6 +28,7 @@
     <li>composer install</li>
     <li>npm install</li>
     <li>php artisan migrate:fresh --seed</li>
+    <li>To test the functionality, fake data is seeded</li>
 </ul>
 
 ## Functionality
