@@ -41,3 +41,5 @@
     <li>If user has delayed books, he/she would not be able to borrow the new ones</li>
     <li>For each month, the most lent books by the specific librarian is shown</li>
 </ul>
+
+## <p style="color: #dc3545">Note: It's recommended to test the API using providers such as Postman for better usability</p>
